@@ -1,4 +1,3 @@
-### Oiii! Eu sou o Diogo Pereira
  <div>
   <a href="https://github.com/Dide11221">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dide11221&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
